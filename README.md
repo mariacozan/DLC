@@ -3,4 +3,7 @@
 Follow instructions on [here](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/installation.md)
 
 ## Opening the GUI
-![screenshot](https://github.com/mariacozan/DLC/blob/main/Figures/opening%20GUI.PNG)
+'''anaconda prompt
+conda activate DLC-CPU
+pythonw -m deeplabcut
+'''
