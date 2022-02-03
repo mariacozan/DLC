@@ -5,3 +5,5 @@ Follow instructions on [here](https://github.com/DeepLabCut/DeepLabCut/blob/mast
 ## Opening the GUI
 ![opening GUI:](https://github.com/mariacozan/DLC/blob/main/Figures/opening%20GUI.PNG)
 
+'conda activate DLC-CPU'
+
